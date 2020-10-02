@@ -5,5 +5,5 @@
 	path = themes/hugo-theme-cactus
 	url = https://github.com/willrinehart/hugo-theme-cactus
 [submodule "themes/cactus"]
-	path = themes/hugo-theme-cactus
+	path = themes/cactus
 	url = https://github.com/willrinehart/hugo-theme-cactus
